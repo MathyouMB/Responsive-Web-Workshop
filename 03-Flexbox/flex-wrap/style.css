@@ -1,0 +1,11 @@
+.flex{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.flex-element {
+    background: DodgerBlue;
+    margin:1em;
+    width:100px;
+    height:100px;
+}

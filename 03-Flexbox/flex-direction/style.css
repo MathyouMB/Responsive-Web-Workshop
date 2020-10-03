@@ -1,0 +1,12 @@
+.flex{
+    display:flex;
+    flex-direction: column;
+    /*flex-direction: row;*/
+}
+
+.flex-element {
+    background: DodgerBlue;
+    margin:1em;
+    width:100px;
+    height:100px;
+}
